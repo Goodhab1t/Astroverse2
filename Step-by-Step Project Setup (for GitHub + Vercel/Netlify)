@@ -1,0 +1,10 @@
+astro-website/
+├── public/
+│   └── background-galaxy.mp4
+├── src/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
